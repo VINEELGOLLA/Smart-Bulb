@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bulb</string>
+    <string name="on">on</string>
+    <string name="off">off</string>
+    <string name="temp">66 F</string>
+    <string name="beep">Beep ...</string>
+</resources>
